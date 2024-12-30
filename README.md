@@ -16,9 +16,10 @@
 ---
 
 ### 🛠 **Formações**
-<span aling="center" font="bold">
-  **Alura** - **DevMedia** - **Unifacvest**
+<span style="text-align: center; font-weight: bold;">
+  <strong>Alura</strong> - <strong>DevMedia</strong> - <strong>Unifacvest</strong>
 </span>
+
 
 **📍 Localização:** Caruaru, Pernambuco, Brasil
 
