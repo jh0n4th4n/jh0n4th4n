@@ -18,7 +18,7 @@
 ### 🛠 **Formações**
 - **Alura**
 - **DevMedia**
-- **Unifacvest**
+- **Unifacvest** -- Bacharelado em ciência da computação
 
 **📍 Localização:** Caruaru, Pernambuco, Brasil
 
