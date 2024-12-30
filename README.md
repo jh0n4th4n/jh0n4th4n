@@ -16,9 +16,7 @@
 ---
 
 ### 🛠 **Formações**
-- **Alura**
-- **DevMedia**
-- **Unifacvest** -- Bacharelado em ciência da computação
+- **Alura** - **DevMedia** - **Unifacvest**
 
 **📍 Localização:** Caruaru, Pernambuco, Brasil
 
@@ -28,10 +26,12 @@
 - Tornar-me um desenvolvedor full-stack experiente, capaz de criar soluções inovadoras.
 - Contribuir para projetos de código aberto e colaborar com a comunidade de desenvolvedores.
 - Continuar aprendendo e crescendo como profissional de tecnologia.
+- Manter um aprendizado constante, explorando novas tecnologias, linguagens de programação e ferramentas para me manter atualizado com as tendências do setor.
+- Estabelecer conexões profissionais significativas com outros especialistas da área, participando de conferências, hackathons e eventos de tecnologia.
 
 ---
 
-### 📈 **Estatísticas do GitHub**
+### 📈 **Estatísticas**
 <div align="center">
   <picture>
     <source media="(max-width: 400px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=6&theme=dracula">
@@ -79,4 +79,4 @@
 
 ---
 
-**Tags:** #Programação #FullStack #Caruaru #Brasil #Alura #DevMedia #Unifacvest #Aprendizado
+**Tags:** #DesenvolvimentoDeSoftware #FullStack #InovaçãoTecnológica #ProgramaçãoAvançada #Tecnologia #Caruaru #Brasil #AprendizadoContínuo #Alura #DevMedia #Unifacvest #CodeOpen #TecnologiaParaTodos #CrescimentoProfissional #ComunidadeDeDesenvolvedores #SoluçõesInovadoras #Mentoria #NetworkingTecnológico
