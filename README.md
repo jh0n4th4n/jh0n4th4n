@@ -23,8 +23,10 @@
 
 ### 📈 **Estatísticas do GitHub**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=16&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Jhonathan" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=jh0n4th4n&theme=dracula&hide_border=true" alt="Contribuições diárias" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=jh0n4th4n&theme=dracula&margin-w=15&margin-h=15&row=1&column=6" alt="Troféus do GitHub" />
 </div>
 
 ---
