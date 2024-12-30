@@ -14,6 +14,8 @@
 
 **📍 Localização:** Caruaru, Pernambuco, Brasil
 
+---
+
 ### 🎯 **Objetivos**
 - Tornar-me um desenvolvedor full-stack experiente, capaz de criar soluções inovadoras.
 - Contribuir para projetos de código aberto e colaborar com a comunidade de desenvolvedores.
@@ -23,9 +25,18 @@
 
 ### 📈 **Estatísticas do GitHub**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Jhonathan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=6&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Jhonathan" />
+  </picture>
+  <br>
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
+  </picture>
+  <br>
   <img height="180em" src="https://streak-stats.demolab.com/?user=jh0n4th4n&theme=dracula&hide_border=true" alt="Contribuições diárias" />
+  <br>
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=jh0n4th4n&theme=dracula&margin-w=15&margin-h=15&row=1&column=6" alt="Troféus do GitHub" />
 </div>
 
@@ -33,29 +44,27 @@
 
 ### 🐍 **Gráfico da Cobrinha**
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gráfico da Cobrinha" />
 </div>
 
 ---
 
 ### 💻 **Tecnologias e Ferramentas**
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jhonathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhonathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhonathan-SAAS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Jhonathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhonathan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jhonathan-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Jhonathan-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Jhonathan-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Jhonathan-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<div align="center">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
 ---
 
 ### 🌎 **Conecte-se Comigo**
-
 <div align="center">
   <a href="https://instagram.com/jh0n4th4n_jh0n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:jhonathanlucas10x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
