@@ -47,7 +47,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/jh0n4th4n/jh0n4th4n/blob/output/github-contribution-grid-snake-custom.svg" alt="Gráfico da Cobrinha Futurístico" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </div>
 
 
