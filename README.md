@@ -38,14 +38,14 @@
 
  ---
 
-### 🐍 **Gráfico da Cobrinha**
+
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gráfico da Cobrinha" />
 </div>
 
 ---
 
-### 🧩 **Animações de Ciência da Computação**
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação Programador" width="300" />
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Engrenagens de Código" width="300" />
