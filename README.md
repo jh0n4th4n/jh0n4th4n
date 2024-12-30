@@ -35,12 +35,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
   </picture>
   <br>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=jh0n4th4n&theme=dracula&hide_border=true" alt="Contribuições diárias" />
-  <br>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=jh0n4th4n&theme=dracula&margin-w=15&margin-h=15&row=1&column=6" alt="Troféus do GitHub" />
-</div>
 
----
+ ---
 
 ### 🐍 **Gráfico da Cobrinha**
 <div align="center">
