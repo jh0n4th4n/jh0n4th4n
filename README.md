@@ -7,6 +7,14 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação Programador" width="300" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Engrenagens de Código" width="300" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Matrix Animada" width="300" />
+</div>
+
+---
+
 ### 🛠 **Formações**
 - **Alura**
 - **DevMedia**
@@ -45,14 +53,6 @@
 
 ---
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação Programador" width="300" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Engrenagens de Código" width="300" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Matrix Animada" width="300" />
-</div>
-
----
 
 ### 💻 **Tecnologias e Ferramentas**
 <div align="center">
