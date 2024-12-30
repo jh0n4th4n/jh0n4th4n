@@ -18,9 +18,7 @@
 
 ### 🛠 **Formações**
 <p align="center">
-  <img src="URL_DA_LOGO_ALURA" alt="Alura" width="120" />
-  <img src="https://www.facebook.com/photo/?fbid=637335658435697&set=a.637335621769034.png" alt="DevMedia" width="120" />
-  <img src="URL_DA_LOGO_UNIFACVEST" alt="Unifacvest" width="120" />
+  <strong>Unifacvest</strong> - <strong>Devmedia</strong> - <strong>Alura</strong>
 </p>
 
 
