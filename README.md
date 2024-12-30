@@ -49,6 +49,15 @@
 
 ---
 
+### 🧩 **Animações de Ciência da Computação**
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação Programador" width="300" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Engrenagens de Código" width="300" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Matrix Animada" width="300" />
+</div>
+
+---
+
 ### 💻 **Tecnologias e Ferramentas**
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
