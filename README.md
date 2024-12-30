@@ -34,11 +34,8 @@
 ### 📈 **Estatísticas do GitHub**
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=6&theme=dracula">
+    <source media="(max-width: 400px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=6&theme=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Jhonathan" />
-  </picture>
-  <br>
-  <picture>
     <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
   </picture>
