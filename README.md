@@ -17,10 +17,10 @@
 
 
 ### 🛠 **Formações**
-<p align="center">
-  <strong>Unifacvest - Bacharelado em Ciência da Computação</strong> <br>
-  <strong>Devmedia - Desenvolvimento Web</strong> <br>
-  <strong>Alura - Desenvolvimento Full Stack</strong><br>
+<p align="left">
+  <strong>Unifacvest -</strong>  Bacharelado em Ciência da Computação<br>
+  <strong>Devmedia -</strong>  Desenvolvimento Web<br>
+  <strong>Alura -</strong>  Desenvolvimento Full Stack<br>
 </p>
 <br>
 <br>
