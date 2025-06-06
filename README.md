@@ -18,7 +18,8 @@
 
 ### 🛠 **Formações**
 <p align="left">
-  <strong>Unifacvest -</strong>  Bacharelado em Ciência da Computação<br>
+  <strong>Centro UniversitárioUnifacvest -</strong>  Bacharelado em Ciência da Computação<br>
+  <strong>Centro Universitário Favip Wyden -</strong>  Tecnologo Defesa Cibernética<br>
   <strong>Devmedia -</strong>  Desenvolvimento Web<br>
   <strong>Alura -</strong>  Desenvolvimento Full Stack<br>
 </p>
