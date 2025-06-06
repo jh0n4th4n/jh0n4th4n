@@ -1,9 +1,10 @@
 <h3 align="center">🌐 Olá! Eu sou Jhonathan Lucas 👋</h3>
 
 <h6 align="center">
-  <strong>Desenvolvedor Full-Stack Aspirante</strong><br><br>
-  Atualmente aprimorando minhas habilidades diariamente e compartilhando meu progresso com a comunidade. Gosto de colaborar em projetos de código aberto, aprender com outros desenvolvedores e trazer soluções criativas para o mundo da tecnologia.
+  <strong>Desenvolvedor Full-Stack em Formação | Focado em Segurança Digital</strong><br><br>
+  Estou em constante evolução como desenvolvedor, aprimorando minhas habilidades todos os dias e contribuindo ativamente com a comunidade tech. Tenho paixão por transformar ideias em soluções reais, colaborando em projetos open source e explorando tecnologias modernas que unem performance, segurança e inovação.
 </h6>
+
 
 ---
 
@@ -17,25 +18,28 @@
 
 
 ### 🛠 **Formações**
-<p align="left">
-  <strong>Centro UniversitárioUnifacvest -</strong>  Bacharelado em Ciência da Computação<br>
-  <strong>Centro Universitário Favip Wyden -</strong>  Tecnologo Defesa Cibernética<br>
-  <strong>Devmedia -</strong>  Desenvolvimento Web<br>
-  <strong>Alura -</strong>  Desenvolvimento Full Stack<br>
-</p>
-<br>
-<br>
+<p align="left"> 🎓 <strong>Centro Universitário Unifacvest</strong> — <em>Bacharelado em Ciência da Computação</em><br> <img src="https://cdn-icons-png.flaticon.com/512/1010/1010607.png" width="18"/> Fundamentos da computação, algoritmos, estruturas de dados, engenharia de software e banco de dados.<br><br>
+🛡 <strong>Centro Universitário Favip Wyden</strong> — <em>Tecnólogo em Defesa Cibernética</em><br>
+<img src="https://cdn-icons-png.flaticon.com/512/4180/4180316.png" width="18"/> Segurança da informação, criptografia, hardening de sistemas, prevenção e resposta a incidentes.<br><br>
 
-**📍 Localização:** Caruaru, Pernambuco, Brasil
+🌐 <strong>DevMedia</strong> — <em>Formação em Desenvolvimento Web</em><br>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="18"/> HTML5, CSS3, JavaScript, ReactJS, NextJS, back-end com NodeJS e bancos de dados relacionais.<br><br>
+
+🧰 <strong>Alura</strong> — <em>Formação em Desenvolvimento Full Stack</em><br>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="18"/> Front-end com React, back-end com Node.js e boas práticas, Acessibilidade, Git, Github, testes e APIs.<br>
+
+</p>
+
 
 ---
 
 ### 🎯 **Objetivos**
-- Tornar-me um desenvolvedor full-stack experiente, capaz de criar soluções inovadoras.
-- Contribuir para projetos de código aberto e colaborar com a comunidade de desenvolvedores.
-- Continuar aprendendo e crescendo como profissional de tecnologia.
-- Manter um aprendizado constante, explorando novas tecnologias, linguagens de programação e ferramentas para me manter atualizado com as tendências do setor.
-- Estabelecer conexões profissionais significativas com outros especialistas da área, participando de conferências, hackathons e eventos de tecnologia.
+
+- Consolidar minha atuação como desenvolvedor full-stack, com domínio de tecnologias modernas e foco em qualidade, escalabilidade e segurança de software.
+- Aplicar princípios de **engenharia segura** e **DevSecOps**, garantindo que a segurança esteja integrada desde as etapas iniciais do desenvolvimento.
+- Contribuir consistentemente com projetos de código aberto, reforçando meu compromisso com a colaboração, comunidade e boas práticas.
+- Investir em aprendizado contínuo, aprimorando habilidades técnicas em frameworks, arquitetura de software, testes, cloud e automação.
+- Expandir minha rede de conexões profissionais por meio de participação ativa em conferências, comunidades técnicas, hackathons e iniciativas de tecnologia com impacto real.
 
 ---
 
@@ -51,6 +55,7 @@
   </picture>
   <br>
 
+
  ---
 
 
@@ -62,18 +67,33 @@
 ---
 
 
-### 💻 **Tecnologias**
+### 💻 **Tecnologias e Ferramentas**
+
 <div align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
+#### 🌐 Front-end
+<img alt="HTML5" title="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img alt="SASS" title="SASS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img alt="React" title="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+
+<br><br> 
+---
+
+#### ⚙️ Back-end & APIs
+<img alt="Node.js" title="Node.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+<img alt="Java" title="Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+
+<br><br>
+ ---
+ 
+#### 🛠️ Ferramentas & Controle de Versão
+<img alt="Git" title="Git" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+
 </div>
+
 
 ---
 
@@ -87,4 +107,5 @@
 
 ---
 
-**Tags:** #DesenvolvimentoDeSoftware #FullStack #InovaçãoTecnológica #ProgramaçãoAvançada #Tecnologia #Caruaru #Brasil #AprendizadoContínuo #Alura #DevMedia #Unifacvest #CodeOpen #TecnologiaParaTodos #CrescimentoProfissional #ComunidadeDeDesenvolvedores #SoluçõesInovadoras #Mentoria #NetworkingTecnológico
+**Tags:** #JavaScript #TypeScript #NodeJS #ReactJS #HTML5 #CSS3 #SASS #FullStackDevelopment #WebDevelopment #CyberSecurity #DevSecOps #OpenSource #GitHub #API #REST #Java #Frontend #Backend #InfoSec #SecurityEngineer #ResponsiveDesign #CloudComputing #ContinuousLearning #CleanCode #SoftwareEngineering #DeveloperLife
+
