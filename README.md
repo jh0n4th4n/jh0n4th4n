@@ -72,7 +72,7 @@
 <div align="center">
 
 #### 🌐 Front-end
-<img alt="HTML5" title="HTML5" width="40" src="https://developer.mozilla.org/pt-BR/docs/Web/HTML"/>
+<img alt="HTML5" title="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img alt="CSS3" title="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img alt="SASS" title="SASS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
 <img alt="JavaScript" title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
