@@ -107,5 +107,7 @@
 
 ---
 
-**Tags:** #JavaScript #TypeScript #NodeJS #ReactJS #HTML5 #CSS3 #SASS #FullStackDevelopment #WebDevelopment #CyberSecurity #DevSecOps #OpenSource #GitHub #API #REST #Java #Frontend #Backend #InfoSec #SecurityEngineer #ResponsiveDesign #CloudComputing #ContinuousLearning #CleanCode #SoftwareEngineering #DeveloperLife
+**Tags:** `Desenvolvimento Full-Stack` `Segurança Cibernética` `Engenharia de Software` `DevSecOps` `JavaScript` `TypeScript` `Node.js` `React.js` `HTML5` `CSS3` `SASS` `APIs RESTful` `Java` `Front-end` `Back-end` `Segurança da Informação` `Cloud Computing` `CI/CD` `Testes Automatizados` `Código Limpo` `Arquitetura de Software` `Git` `GitHub` `Open Source` `Metodologias Ágeis` `Docker` `Kubernetes` `Banco de Dados` `Segurança de Aplicações` `Pentest`
+
+
 
