@@ -1,7 +1,7 @@
 <h3 align="center">🌐 Olá! Eu sou Jhonathan Lucas 👋</h3>
 
 <h6 align="center">
-  <strong>Desenvolvedor Full-Stack em Formação | Focado em Segurança Digital</strong><br><br>
+  <strong>Desenvolvedor Full-Stack | Focado em Segurança Digital</strong><br><br>
   Estou em constante evolução como desenvolvedor, aprimorando minhas habilidades todos os dias e contribuindo ativamente com a comunidade tech. Tenho paixão por transformar ideias em soluções reais, colaborando em projetos open source e explorando tecnologias modernas que unem performance, segurança e inovação.
 </h6>
 
