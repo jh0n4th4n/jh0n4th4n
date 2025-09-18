@@ -1,113 +1,259 @@
-<h3 align="center">🌐 Olá! Eu sou Jhonathan Lucas 👋</h3>
-
-<h6 align="center">
-  <strong>Desenvolvedor Full-Stack | Focado em Segurança Digital</strong><br><br>
-  Estou em constante evolução como desenvolvedor, aprimorando minhas habilidades todos os dias e contribuindo ativamente com a comunidade tech. Tenho paixão por transformar ideias em soluções reais, colaborando em projetos open source e explorando tecnologias modernas que unem performance, segurança e inovação.
-</h6>
-
-
----
+# 👋 Olá! Eu sou Jhonathan Lucas
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação Programador" width="200" height="200"  />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Engrenagens de Código" width="200" height="200"  />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Matrix Animada" width="300" height="200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Especialista+em+Seguran%C3%A7a+Digital;Apaixonado+por+Open+Source;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](seu-portfolio-aqui)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-lucas-128003a9)
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonathanlucas10x@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5581982555501)
+  
 </div>
 
 ---
 
+## 🚀 Sobre Mim
 
-### 🛠 **Formações**
-<p align="left"> 🎓 <strong>Centro Universitário Unifacvest</strong> — <em>Bacharelado em Ciência da Computação</em><br> <img src="https://cdn-icons-png.flaticon.com/512/1010/1010607.png" width="18"/> Fundamentos da computação, algoritmos, estruturas de dados, engenharia de software e banco de dados.<br><br>
-🛡 <strong>Centro Universitário Favip Wyden</strong> — <em>Tecnólogo em Defesa Cibernética</em><br>
-<img src="https://cdn-icons-png.flaticon.com/512/4180/4180316.png" width="18"/> Segurança da informação, criptografia, hardening de sistemas, prevenção e resposta a incidentes.<br><br>
+Sou um **desenvolvedor Full-Stack** em constante evolução, com paixão por **segurança digital** e **tecnologias modernas**. Atualmente cursando **Ciência da Computação** e **Defesa Cibernética**, combino desenvolvimento de software com práticas avançadas de segurança.
 
-🌐 <strong>DevMedia</strong> — <em>Formação em Desenvolvimento Web</em><br>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="18"/> HTML5, CSS3, JavaScript, ReactJS, NextJS, back-end com NodeJS e bancos de dados relacionais.<br><br>
-
-🧰 <strong>Alura</strong> — <em>Formação em Desenvolvimento Full Stack</em><br>
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="18"/> Front-end com React, back-end com Node.js e boas práticas, Acessibilidade, Git, Github, testes e APIs.<br>
-
-</p>
-
+- 🔭 Atualmente trabalhando em projetos **open source** e aplicações **full-stack**
+- 🌱 Aprendendo **DevSecOps**, **Cloud Computing** e **Arquitetura de Microsserviços**
+- 👯 Procurando colaborar em projetos de **impacto social** e **inovação tecnológica**
+- 💬 Pergunte-me sobre **JavaScript**, **React**, **Node.js** e **Segurança de Aplicações**
+- ⚡ Curiosidade: Apaixonado por transformar **ideias complexas** em **soluções simples**
 
 ---
 
-### 🎯 **Objetivos**
-
-- Consolidar minha atuação como desenvolvedor full-stack, com domínio de tecnologias modernas e foco em qualidade, escalabilidade e segurança de software.
-- Aplicar princípios de **engenharia segura** e **DevSecOps**, garantindo que a segurança esteja integrada desde as etapas iniciais do desenvolvimento.
-- Contribuir consistentemente com projetos de código aberto, reforçando meu compromisso com a colaboração, comunidade e boas práticas.
-- Investir em aprendizado contínuo, aprimorando habilidades técnicas em frameworks, arquitetura de software, testes, cloud e automação.
-- Expandir minha rede de conexões profissionais por meio de participação ativa em conferências, comunidades técnicas, hackathons e iniciativas de tecnologia com impacto real.
-
----
-
-### 📈 **Estatísticas**
-<div align="center">
-  <picture>
-    <source media="(max-width: 400px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=6&theme=dracula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Jhonathan" />
-    </picture>
-    <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
-  </picture>
-  <br>
-
-
- ---
-
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</div>
-
-
----
-
-
-### 💻 **Tecnologias e Ferramentas**
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-#### 🌐 Front-end
-<img alt="HTML5" title="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img alt="CSS3" title="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img alt="SASS" title="SASS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
-<img alt="JavaScript" title="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img alt="React" title="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<br><br> 
----
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### ⚙️ Back-end & APIs
-<img alt="Node.js" title="Node.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-<img alt="Java" title="Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+### DevOps & Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<br><br>
- ---
- 
-#### 🛠️ Ferramentas & Controle de Versão
-<img alt="Git" title="Git" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img alt="GitHub" title="GitHub" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+### Security & Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-</div>
-
-
----
-
-### 🌎 **Conecte-se Comigo**
-<div align="center">
-  <a href="https://instagram.com/jh0n4th4n_jh0n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:jhonathanlucas10x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonathan-lucas-128003a9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/+5581982555501" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D564?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
-**Tags:** `Desenvolvimento Full-Stack` `Segurança Cibernética` `Engenharia de Software` `DevSecOps` `JavaScript` `TypeScript` `Node.js` `React.js` `HTML5` `CSS3` `SASS` `APIs RESTful` `Java` `Front-end` `Back-end` `Segurança da Informação` `Cloud Computing` `CI/CD` `Testes Automatizados` `Código Limpo` `Arquitetura de Software` `Git` `GitHub` `Open Source` `Metodologias Ágeis` `Docker` `Kubernetes` `Banco de Dados` `Segurança de Aplicações` `Pentest`
+## 📊 GitHub Analytics
 
+<div align="center">
+  <a href="https://github.com/jh0n4th4n">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jh0n4th4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0n4th4n&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=jh0n4th4n&theme=dracula" alt="GitHub Streak Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jh0n4th4n&theme=dracula" alt="GitHub Profile Summary" />
+</div>
+
+---
+
+## 🎓 Formação & Certificações
+
+<div align="center">
+
+### 🎓 **Educação Formal**
+- **📚 Ciência da Computação** - *Centro Universitário Unifacvest*
+- **🛡️ Defesa Cibernética** - *Centro Universitário Favip Wyden*
+
+</div>
+
+---
+
+### 📜 **Certificações Técnicas**
+
+<div align="center">
+
+#### **🚀 Trybe (2025) - 2 Certificados**
+![JavaScript](https://img.shields.io/badge/-JavaScript%20do%20Zero-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Logic](https://img.shields.io/badge/-Lógica%20de%20Programação-4B8BBE?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+#### **💻 DevMedia (2023-2025) - 8 Certificações Completas**
+
+<details>
+<summary><strong>📊 Total: 358 Horas de Estudos Certificados</strong></summary>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+#### **🎨 Frontend & Web**
+- ![Frontend Web](https://img.shields.io/badge/Frontend%20Web-61DAFB?style=flat-square&logo=react&logoColor=white) `147h`
+- ![HTML/CSS](https://img.shields.io/badge/HTML%20&%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white) `30h`
+- ![Algorithms](https://img.shields.io/badge/Algoritmos-4B8BBE?style=flat-square&logo=python&logoColor=white) `13h`
+
+#### **⚛️ React Development**
+- ![React Complete](https://img.shields.io/badge/React%20Complete-20232A?style=flat-square&logo=react&logoColor=61DAFB) `83h`
+- ![React Authority](https://img.shields.io/badge/React%20Authority-087EA4?style=flat-square&logo=react&logoColor=white) `Certificado`
+
+</td>
+<td width="50%">
+
+#### **🔧 Backend & APIs**
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) `11h`
+- ![Programming Authority](https://img.shields.io/badge/Programação%20Authority-323330?style=flat-square&logo=code&logoColor=white) `Certificado`
+
+#### **☕ Java Development**
+- ![Java](https://img.shields.io/badge/Java%20Fundamentals-ED8B00?style=flat-square&logo=openjdk&logoColor=white) `21h`
+
+#### **⚡ JavaScript**
+- ![JavaScript](https://img.shields.io/badge/JavaScript%20Complete-F7DF1E?style=flat-square&logo=javascript&logoColor=black) `43h`
+
+</td>
+</tr>
+</table>
+
+#### **📚 Competências Desenvolvidas:**
+- **Frontend:** HTML5, CSS3, Flexbox, Position, Pseudo-elementos, Formulários, Tabelas
+- **JavaScript:** Variáveis, Operadores, Estruturas Condicionais, Objetos, Input Handling
+- **React:** Componentes, Props, State Hook, Navegação, APIs, Componentização, Produção
+- **Backend:** Node.js, APIs, MVC Pattern, Docker Basics
+- **Java:** Tipos de Dados, Operadores, Hello World, Fundamentos
+- **DevOps:** Git, Docker, Publicação de Sites
+
+</details>
+
+---
+
+### 🎯 **Alura - Formações Completas (2022-2023)**
+
+<details>
+<summary><strong>📈 Total: 10+ Formações | 400+ Horas de Estudos</strong></summary>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+#### **🎨 Frontend Development**
+- ![HTML/CSS](https://img.shields.io/badge/HTML%20&%20CSS%20Foundation-E34F26?style=flat-square&logo=html5&logoColor=white) `53h`
+- ![HTML/CSS Projects](https://img.shields.io/badge/HTML%20&%20CSS%20Projects-1572B6?style=flat-square&logo=css3&logoColor=white) `63h`
+- ![Complete HTML/CSS](https://img.shields.io/badge/Complete%20HTML%20&%20CSS-FF6B35?style=flat-square&logo=html5&logoColor=white) `65h`
+
+#### **⚡ JavaScript Development**
+- ![JavaScript Web](https://img.shields.io/badge/JavaScript%20Web%20Apps-F7DF1E?style=flat-square&logo=javascript&logoColor=black) `60h`
+- ![Advanced JS](https://img.shields.io/badge/Advanced%20JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) `34h`
+
+</td>
+<td width="50%">
+
+#### **⚛️ React Ecosystem**
+- ![React Fundamentals](https://img.shields.io/badge/React%20Fundamentals-20232A?style=flat-square&logo=react&logoColor=61DAFB) `65h`
+- ![React Advanced](https://img.shields.io/badge/React%20Advanced-087EA4?style=flat-square&logo=react&logoColor=white) `68h`
+- ![React TypeScript](https://img.shields.io/badge/React%20+%20TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) `20h`
+
+#### **♿ Accessibility & Others**
+- ![Web Accessibility](https://img.shields.io/badge/Web%20Accessibility-FF6B6B?style=flat-square&logo=accessibility&logoColor=white) `26h`
+- ![DevOps](https://img.shields.io/badge/Git%20&%20GitHub-181717?style=flat-square&logo=github&logoColor=white) `14h`
+
+</td>
+</tr>
+</table>
+
+#### **📚 Principais Competências Desenvolvidas:**
+- **Frontend:** HTML5, CSS3, Flexbox, Grid, Mobile-First, Responsividade
+- **JavaScript:** ES6+, DOM Manipulation, APIs, Arrays, Objetos, Validações
+- **React:** Components, Hooks, Router, Context API, Styled Components, TypeScript
+- **Acessibilidade:** WCAG, Design Inclusivo, Componentes Acessíveis
+- **DevOps:** Git, GitHub, Controle de Versão, Colaboração
+
+</details>
+
+### 🏆 **Competências Certificadas Totais**
+`Pensamento Computacional` `Algoritmos` `JavaScript ES6+` `React.js` `TypeScript` `HTML5 & CSS3` `Flexbox & Grid` `Responsividade` `Acessibilidade Web` `Git & GitHub` `APIs RESTful` `DOM Manipulation` `Mobile-First` `Styled Components` `React Router` `Context API` `Node.js` `Java` `Docker` `MVC Pattern` `Backend Development` `State Management` `Component Architecture`
+
+---
+
+## 🎯 Objetivos Atuais
+
+```javascript
+const jhonathan = {
+  currentFocus: [
+    "Consolidar expertise em desenvolvimento full-stack",
+    "Implementar práticas DevSecOps em projetos",
+    "Contribuir com projetos open source",
+    "Expandir conhecimentos em cloud computing"
+  ],
+  
+  learningGoals: [
+    "Arquitetura de microsserviços",
+    "Kubernetes e Docker avançado", 
+    "Testes automatizados",
+    "CI/CD pipelines"
+  ],
+  
+  communityGoals: [
+    "Participar de hackathons",
+    "Contribuir com a comunidade tech",
+    "Mentorar novos desenvolvedores",
+    "Palestrar sobre segurança em desenvolvimento"
+  ]
+};
+```
+
+---
+
+## 📫 Vamos Conectar!
+
+<div align="center">
+
+Estou sempre aberto para discussões sobre tecnologia, colaborações em projetos interessantes e oportunidades de networking. Não hesite em entrar em contato!
+
+**"A segurança não é um produto, mas um processo contínuo de melhoria."**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhonathan-lucas-128003a9)
+[![Email](https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail)](mailto:jhonathanlucas10x@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  
+  **⭐ Se você gostou dos meus projetos, considere dar uma estrela nos repositórios! ⭐**
+  
+</div>
