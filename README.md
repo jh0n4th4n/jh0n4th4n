@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](seu-portfolio-aqui)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](seu-portfolio-aqui) <!-- Substitua pelo link real do seu portfólio -->
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-lucas-128003a9)
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonathanlucas10x@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5581982555501)
@@ -17,17 +17,30 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **desenvolvedor Full-Stack** em constante evolução, com paixão por **segurança digital** e **tecnologias modernas**. Atualmente cursando **Ciência da Computação** e **Defesa Cibernética**, combino desenvolvimento de software com práticas avançadas de segurança.
+Sou um **Desenvolvedor Full-Stack** focado em construir aplicações **seguras, escaláveis e modernas**.  
+Atualmente curso **Ciência da Computação** e **Defesa Cibernética**, unindo desenvolvimento de software com **práticas de segurança digital** e **DevSecOps**.
 
-- 🔭 Atualmente trabalhando em projetos **open source** e aplicações **full-stack**
-- 🌱 Aprendendo **DevSecOps**, **Cloud Computing** e **Arquitetura de Microsserviços**
-- 👯 Procurando colaborar em projetos de **impacto social** e **inovação tecnológica**
+- 🔭 Trabalhando em projetos **open source** e aplicações **full-stack**
+- 🌱 Estudando **DevSecOps**, **Cloud Computing** e **Arquitetura de Microsserviços**
+- 👯 Aberto a colaborar em projetos de **impacto social** e **inovação tecnológica**
 - 💬 Pergunte-me sobre **JavaScript**, **React**, **Node.js** e **Segurança de Aplicações**
-- ⚡ Curiosidade: Apaixonado por transformar **ideias complexas** em **soluções simples**
+- ⚡ Curiosidade: adoro transformar **ideias complexas** em **soluções simples**
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
+
+### 💻 Principais Tecnologias
+
+- **Frontend:** HTML5, CSS3, SASS, JavaScript, TypeScript, React, Next.js  
+- **Backend:** Node.js, Java  
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
+- **DevOps & Ferramentas:** Git, GitHub, Docker, Linux, VS Code  
+- **Segurança & Cybersecurity:** Kali Linux, Wireshark  
+
+---
+
+## 🧰 Stack Detalhada
 
 <div align="center">
 
@@ -62,6 +75,18 @@ Sou um **desenvolvedor Full-Stack** em constante evolução, com paixão por **s
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<!-- Substitua os links de exemplo abaixo pelos seus repositórios reais -->
+
+- 🔐 **Aplicação Segura Full-Stack** – Autenticação, autorização e boas práticas de segurança.  
+- 📊 **Dashboard com React & Next.js** – Integração com APIs e visualização de dados.  
+- 🛡️ **Ferramenta de Análise de Vulnerabilidades** – Scripts e automações focadas em segurança.
+
+> ✍️ *Dica: aqui você coloca 2–4 projetos que mais te representam profissionalmente.*
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -85,7 +110,7 @@ Sou um **desenvolvedor Full-Stack** em constante evolução, com paixão por **s
 
 <div align="center">
 
-### 🎓 **Educação Formal**
+### 🎓 Educação Formal
 - **📚 Ciência da Computação** - *Centro Universitário Unifacvest*
 - **🛡️ Defesa Cibernética** - *Centro Universitário Favip Wyden*
 
@@ -93,17 +118,19 @@ Sou um **desenvolvedor Full-Stack** em constante evolução, com paixão por **s
 
 ---
 
-### 📜 **Certificações Técnicas**
+### 📜 Certificações Técnicas
 
 <div align="center">
 
-#### **🚀 Trybe (2025) - 2 Certificados**
+#### 🚀 **Trybe (2025) - 2 Certificados**
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20do%20Zero-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Logic](https://img.shields.io/badge/-Lógica%20de%20Programação-4B8BBE?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
-#### **💻 DevMedia (2023-2025) - 8 Certificações Completas**
+---
+
+#### 💻 **DevMedia (2023-2025) - 8 Certificações Completas**
 
 <details>
 <summary><strong>📊 Total: 358 Horas de Estudos Certificados</strong></summary>
@@ -114,39 +141,39 @@ Sou um **desenvolvedor Full-Stack** em constante evolução, com paixão por **s
 <tr>
 <td width="50%">
 
-#### **🎨 Frontend & Web**
+#### 🎨 Frontend & Web
 - ![Frontend Web](https://img.shields.io/badge/Frontend%20Web-61DAFB?style=flat-square&logo=react&logoColor=white) `147h`
 - ![HTML/CSS](https://img.shields.io/badge/HTML%20&%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white) `30h`
 - ![Algorithms](https://img.shields.io/badge/Algoritmos-4B8BBE?style=flat-square&logo=python&logoColor=white) `13h`
 
-#### **⚛️ React Development**
+#### ⚛️ React Development
 - ![React Complete](https://img.shields.io/badge/React%20Complete-20232A?style=flat-square&logo=react&logoColor=61DAFB) `83h`
 - ![React Authority](https://img.shields.io/badge/React%20Authority-087EA4?style=flat-square&logo=react&logoColor=white) `Certificado`
 
 </td>
 <td width="50%">
 
-#### **🔧 Backend & APIs**
+#### 🔧 Backend & APIs
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) `11h`
 - ![Programming Authority](https://img.shields.io/badge/Programação%20Authority-323330?style=flat-square&logo=code&logoColor=white) `Certificado`
 
-#### **☕ Java Development**
+#### ☕ Java Development
 - ![Java](https://img.shields.io/badge/Java%20Fundamentals-ED8B00?style=flat-square&logo=openjdk&logoColor=white) `21h`
 
-#### **⚡ JavaScript**
+#### ⚡ JavaScript
 - ![JavaScript](https://img.shields.io/badge/JavaScript%20Complete-F7DF1E?style=flat-square&logo=javascript&logoColor=black) `43h`
 
 </td>
 </tr>
 </table>
 
-#### **📚 Competências Desenvolvidas:**
-- **Frontend:** HTML5, CSS3, Flexbox, Position, Pseudo-elementos, Formulários, Tabelas
-- **JavaScript:** Variáveis, Operadores, Estruturas Condicionais, Objetos, Input Handling
-- **React:** Componentes, Props, State Hook, Navegação, APIs, Componentização, Produção
-- **Backend:** Node.js, APIs, MVC Pattern, Docker Basics
-- **Java:** Tipos de Dados, Operadores, Hello World, Fundamentos
-- **DevOps:** Git, Docker, Publicação de Sites
+#### 📚 Competências Desenvolvidas:
+- **Frontend:** HTML5, CSS3, Flexbox, Position, Pseudo-elementos, Formulários, Tabelas  
+- **JavaScript:** Variáveis, Operadores, Estruturas Condicionais, Objetos, Input Handling  
+- **React:** Componentes, Props, State Hook, Navegação, APIs, Componentização, Produção  
+- **Backend:** Node.js, APIs, MVC Pattern, Docker Basics  
+- **Java:** Tipos de Dados, Operadores, Fundamentos  
+- **DevOps:** Git, Docker, Publicação de Sites  
 
 </details>
 
@@ -163,24 +190,24 @@ Sou um **desenvolvedor Full-Stack** em constante evolução, com paixão por **s
 <tr>
 <td width="50%">
 
-#### **🎨 Frontend Development**
+#### 🎨 Frontend Development
 - ![HTML/CSS](https://img.shields.io/badge/HTML%20&%20CSS%20Foundation-E34F26?style=flat-square&logo=html5&logoColor=white) `53h`
 - ![HTML/CSS Projects](https://img.shields.io/badge/HTML%20&%20CSS%20Projects-1572B6?style=flat-square&logo=css3&logoColor=white) `63h`
 - ![Complete HTML/CSS](https://img.shields.io/badge/Complete%20HTML%20&%20CSS-FF6B35?style=flat-square&logo=html5&logoColor=white) `65h`
 
-#### **⚡ JavaScript Development**
+#### ⚡ JavaScript Development
 - ![JavaScript Web](https://img.shields.io/badge/JavaScript%20Web%20Apps-F7DF1E?style=flat-square&logo=javascript&logoColor=black) `60h`
 - ![Advanced JS](https://img.shields.io/badge/Advanced%20JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) `34h`
 
 </td>
 <td width="50%">
 
-#### **⚛️ React Ecosystem**
+#### ⚛️ React Ecosystem
 - ![React Fundamentals](https://img.shields.io/badge/React%20Fundamentals-20232A?style=flat-square&logo=react&logoColor=61DAFB) `65h`
 - ![React Advanced](https://img.shields.io/badge/React%20Advanced-087EA4?style=flat-square&logo=react&logoColor=white) `68h`
 - ![React TypeScript](https://img.shields.io/badge/React%20+%20TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) `20h`
 
-#### **♿ Accessibility & Others**
+#### ♿ Accessibility & Others
 - ![Web Accessibility](https://img.shields.io/badge/Web%20Accessibility-FF6B6B?style=flat-square&logo=accessibility&logoColor=white) `26h`
 - ![DevOps](https://img.shields.io/badge/Git%20&%20GitHub-181717?style=flat-square&logo=github&logoColor=white) `14h`
 
@@ -188,16 +215,19 @@ Sou um **desenvolvedor Full-Stack** em constante evolução, com paixão por **s
 </tr>
 </table>
 
-#### **📚 Principais Competências Desenvolvidas:**
-- **Frontend:** HTML5, CSS3, Flexbox, Grid, Mobile-First, Responsividade
-- **JavaScript:** ES6+, DOM Manipulation, APIs, Arrays, Objetos, Validações
-- **React:** Components, Hooks, Router, Context API, Styled Components, TypeScript
-- **Acessibilidade:** WCAG, Design Inclusivo, Componentes Acessíveis
-- **DevOps:** Git, GitHub, Controle de Versão, Colaboração
+#### 📚 Principais Competências Desenvolvidas:
+- **Frontend:** HTML5, CSS3, Flexbox, Grid, Mobile-First, Responsividade  
+- **JavaScript:** ES6+, DOM Manipulation, APIs, Arrays, Objetos, Validações  
+- **React:** Components, Hooks, Router, Context API, Styled Components, TypeScript  
+- **Acessibilidade:** WCAG, Design Inclusivo, Componentes Acessíveis  
+- **DevOps:** Git, GitHub, Controle de Versão, Colaboração  
 
 </details>
 
-### 🏆 **Competências Certificadas Totais**
+---
+
+### 🏆 Competências Certificadas Totais
+
 `Pensamento Computacional` `Algoritmos` `JavaScript ES6+` `React.js` `TypeScript` `HTML5 & CSS3` `Flexbox & Grid` `Responsividade` `Acessibilidade Web` `Git & GitHub` `APIs RESTful` `DOM Manipulation` `Mobile-First` `Styled Components` `React Router` `Context API` `Node.js` `Java` `Docker` `MVC Pattern` `Backend Development` `State Management` `Component Architecture`
 
 ---
@@ -227,33 +257,3 @@ const jhonathan = {
     "Palestrar sobre segurança em desenvolvimento"
   ]
 };
-```
-
----
-
-## 📫 Vamos Conectar!
-
-<div align="center">
-
-Estou sempre aberto para discussões sobre tecnologia, colaborações em projetos interessantes e oportunidades de networking. Não hesite em entrar em contato!
-
-**"A segurança não é um produto, mas um processo contínuo de melhoria."**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhonathan-lucas-128003a9)
-[![Email](https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail)](mailto:jhonathanlucas10x@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  
-  **⭐ Se você gostou dos meus projetos, considere dar uma estrela nos repositórios! ⭐**
-  
-</div>
